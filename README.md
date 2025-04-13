@@ -1,4 +1,7 @@
-## Hi there 👋
+## Catherine's Profile
+![Image](https://github.com/user-attachments/assets/a8c42627-a7df-42f3-b3f3-9c6b903c4122)
+
+Check out my strawpage to get a gist of who I am :)
 
 <!--
 **PEARLIZED/PEARLIZED** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
